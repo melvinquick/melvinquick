@@ -16,6 +16,14 @@
 </a>
 </div>
 
+ :sparkles: **Current Projects** :sparkles:
+
+- [Scramble Generator](https://github.com/melvinquick/scramble-generator)
+- [Prime Number Finder](https://github.com/melvinquick/prime-number-finder)
+- [Windows Setup Script](https://github.com/melvinquick/windows-setup-script)
+- [Windows Cleanup Helper](https://github.com/melvinquick/windows-cleanup-helper)
+- [Windows Config Files](https://github.com/melvinquick/windows-config-files)
+
 <!--
 **melvinquick/melvinquick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
