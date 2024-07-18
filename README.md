@@ -16,6 +16,8 @@
 </a>
 </div>
 
+<br>
+
  :sparkles: **Current Projects** :sparkles:
 
 - [Scramble Generator](https://github.com/melvinquick/scramble-generator)
