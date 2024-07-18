@@ -10,8 +10,9 @@
 <a href="#x">
 <img width="55%" src="https://github-readme-stats.vercel.app/api?username=melvinquick&show_icons=true&theme=nord"/>
 </a>
-&nbsp;
+
 <br>
+
 <a href="#x">
 <img width="36.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvinquick&layout=compact&theme=nord&langs_count=2"/>
 </a>
@@ -20,7 +21,7 @@
 <br>
 
 <div align="center">
- :sparkles: **Current Projects** :sparkles:
+ <h3> :sparkles: Current Projects :sparkles: </h3>
 
 [Scramble Generator](https://github.com/melvinquick/scramble-generator) | [Prime Number Finder](https://github.com/melvinquick/prime-number-finder) | [Windows Setup Script](https://github.com/melvinquick/windows-setup-script) | [Windows Cleanup Helper](https://github.com/melvinquick/windows-cleanup-helper) | [Windows Config Files](https://github.com/melvinquick/windows-config-files)
 </div>
