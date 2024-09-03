@@ -23,7 +23,7 @@
 <div align="center">
  <h3> :sparkles: Current Projects :sparkles: </h3>
 
-[Scramble Generator](https://github.com/melvinquick/scramble-generator) | [Prime Number Finder](https://github.com/melvinquick/prime-number-finder) | [Windows Setup Script](https://github.com/melvinquick/windows-setup-script) | [Windows Cleanup Helper](https://github.com/melvinquick/windows-cleanup-helper) | [Windows Config Files](https://github.com/melvinquick/windows-config-files)
+[Scramble Generator](https://github.com/melvinquick/scramble-generator) | [Prime Number Finder](https://github.com/melvinquick/prime-number-finder) | [Windows Setup Script](https://github.com/melvinquick/windows-setup-script) | [Windows Cleanup Helper](https://github.com/melvinquick/windows-cleanup-helper)
 </div>
 
 <!--
