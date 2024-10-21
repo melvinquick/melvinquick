@@ -9,8 +9,26 @@
 <br>
 
 <div align="center">
+ <h3> :link: Where To Find Me :link: </h3>
+
+[![Proton](https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:melvinquick@proton.me) [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/melvinquick.bsky.social) [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)](https://codeberg.org/melvinquick) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melvinquick/)
+
+</div>
+
+<br>
+
+<div align="center">
+ <h3> :keyboard: Favorite Programming Languages :keyboard: </h3>
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+</div>
+
+<br>
+
+<div align="center">
  <h3> :sparkles: Current Projects :sparkles: </h3>
 
-[Scramble Generator](https://scramblegenerator.com) | [Prime Number Finder](https://primenumberfinder.com) | [Windows Setup Script](https://windowssetupscript.com) | [Windows Cleanup Helper](https://windowwscleanuphelper.com)
+[Scramble Generator](https://scramblegenerator.com) | [Prime Number Finder](https://primenumberfinder.com) | [Dotfiles](https://codeberg.org/melvinquick/dotfiles)
 
 </div>
