@@ -16,7 +16,7 @@
 <div align="center">
  <h3> :keyboard: Favorite Programming Languages :keyboard: </h3>
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://python.org)
 
 </div>
 
