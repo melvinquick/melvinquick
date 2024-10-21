@@ -6,8 +6,6 @@
 </div>
 </a>
 
-<br>
-
 <div align="center">
  <h3> :link: Where To Find Me :link: </h3>
 
@@ -15,16 +13,12 @@
 
 </div>
 
-<br>
-
 <div align="center">
  <h3> :keyboard: Favorite Programming Languages :keyboard: </h3>
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 </div>
-
-<br>
 
 <div align="center">
  <h3> :sparkles: Current Projects :sparkles: </h3>
