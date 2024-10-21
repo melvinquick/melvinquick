@@ -7,25 +7,22 @@
 </a>
 
 <div align="center">
-<a href="#x">
-<img width="55%" src="https://github-readme-stats.vercel.app/api?username=melvinquick&show_icons=true&theme=nord"/>
-</a>
+ <h3> :link: Where To Find Me :link: </h3>
 
-<br>
+[![Proton](https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:melvinquick@proton.me) [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/melvinquick.bsky.social) [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)](https://codeberg.org/melvinquick) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melvinquick/)
 
-<a href="#x">
-<img width="36.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvinquick&layout=compact&theme=nord&langs_count=2"/>
-</a>
 </div>
 
-<br>
+<div align="center">
+ <h3> :keyboard: Favorite Programming Languages :keyboard: </h3>
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+</div>
 
 <div align="center">
  <h3> :sparkles: Current Projects :sparkles: </h3>
 
-[Scramble Generator](https://github.com/melvinquick/scramble-generator) | [Prime Number Finder](https://github.com/melvinquick/prime-number-finder) | [Windows Setup Script](https://github.com/melvinquick/windows-setup-script) | [Windows Cleanup Helper](https://github.com/melvinquick/windows-cleanup-helper)
-</div>
+[Scramble Generator](https://scramblegenerator.com) | [Prime Number Finder](https://primenumberfinder.com) | [Dotfiles](https://codeberg.org/melvinquick/dotfiles)
 
-<!--
-**melvinquick/melvinquick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+</div>
