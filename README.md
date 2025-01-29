@@ -23,6 +23,6 @@
 <div align="center">
  <h3> :sparkles: Current Projects :sparkles: </h3>
 
-[Scramble Generator](https://scramblegenerator.com) | [Prime Number Finder](https://primenumberfinder.com) | [Dotfiles](https://codeberg.org/melvinquick/dotfiles)
+[Psswd Box](https://psswdbox.com) | [Scramble Generator](https://scramblegenerator.com) | [Prime Number Finder](https://primenumberfinder.com)
 
 </div>
