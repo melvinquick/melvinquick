@@ -25,6 +25,8 @@
 
 [Psswd Box](https://psswdbox.com)
 
+[Wttrman](https://codeberg.org/melvinquick/wttrman)
+
 [Scramble Generator](https://scramblegenerator.com)
 
 [Prime Number Finder](https://primenumberfinder.com)
