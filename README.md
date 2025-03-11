@@ -23,12 +23,12 @@
 <div align="center">
  <h3> :sparkles: Current Projects :sparkles: </h3>
 
-[Psswd Box](https://psswdbox.com)
+[Psswd Box](https://codeberg.org/melvinquick/psswd_box)
 
 [Wttrman](https://codeberg.org/melvinquick/wttrman)
 
-[Scramble Generator](https://scramblegenerator.com)
+[Scramble Generator](https://codeberg.org/melvinquick/scramble_generator)
 
-[Prime Number Finder](https://primenumberfinder.com)
+[Prime Number Finder](https://codeberg.org/melvinquick/prime_number_finder)
 
 </div>
