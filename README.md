@@ -31,4 +31,6 @@
 
 [Prime Number Finder](https://codeberg.org/melvinquick/prime_number_finder)
 
+[Dubbed](https://codeberg.org/melvinquick/dubbed)
+
 </div>
