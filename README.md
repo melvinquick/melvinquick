@@ -23,14 +23,16 @@
 <div align="center">
  <h3> :sparkles: Current Projects :sparkles: </h3>
 
-[Psswd Box](https://codeberg.org/melvinquick/psswd_box)
+[PKHeX AppImage Build](https://github.com/melvinquick/pkhex_appimage_build)
 
-[Wttrman](https://codeberg.org/melvinquick/wttrman)
+[Psswd Box](https://github.com/melvinquick/psswd_box)
 
-[Scramble Generator](https://codeberg.org/melvinquick/scramble_generator)
+[Wttrman](https://github.com/melvinquick/wttrman)
 
-[Prime Number Finder](https://codeberg.org/melvinquick/prime_number_finder)
+[Scramble Generator](https://github.com/melvinquick/scramble_generator)
 
-[Dubbed](https://codeberg.org/melvinquick/dubbed)
+[Prime Number Finder](https://github.com/melvinquick/prime_number_finder)
+
+[Dubbed](https://github.com/melvinquick/dubbed)
 
 </div>
