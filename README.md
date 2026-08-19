@@ -28,8 +28,6 @@
 <div align="center">
  <h3> :sparkles: Current Projects :sparkles: </h3>
 
-**If you find you enjoy any of these projects, please feel free to star them to help other people find them!**
-
 | Name                                                                        | Short Description                           | Stars                                                                                                                                               |
 | --------------------------------------------------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [PKHeX AppImage Build](https://github.com/melvinquick/pkhex_appimage_build) | Unofficial AppImage builder for PKHeX       | ![Stars](https://img.shields.io/github/stars/melvinquick/pkhex_appimage_build?style=for-the-badge&logo=star&logoColor=white&color=555555&label=%20) |
