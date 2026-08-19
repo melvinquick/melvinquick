@@ -1,10 +1,10 @@
 <h3 align="center"> I'm Melvin, nice to meet you!&nbsp;&nbsp;<a href="#"> <img alt="" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> </a> </h3>
 
-<a href="#x">
-<div align="center">
-<img alt="" src="https://readme-typing-svg.herokuapp.com?lines=Python+Freak+🐍;Football+Lover+🏈;Harry+Potter+Enthusiast+🪄;Hockey+Fanatic+🏒;&center=true&width=500&height=34">
-</div>
-</a>
+<p align="center">
+  <a href="#x">
+    <img alt="" src="https://readme-typing-svg.herokuapp.com?lines=Python+Freak+🐍;Football+Lover+🏈;Harry+Potter+Enthusiast+🪄;Hockey+Fanatic+🏒;&center=true&width=500&height=34">
+  </a>
+</p>
 
 <div align="center">
  <h3> :link: Where To Find Me :link: </h3>
