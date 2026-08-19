@@ -28,16 +28,13 @@
 <div align="center">
  <h3> :sparkles: Current Projects :sparkles: </h3>
 
-[PKHeX AppImage Build](https://github.com/melvinquick/pkhex_appimage_build)
-
-[Psswd Box](https://github.com/melvinquick/psswd_box)
-
-[Wttrman](https://github.com/melvinquick/wttrman)
-
-[Scramble Generator](https://github.com/melvinquick/scramble_generator)
-
-[Prime Number Finder](https://github.com/melvinquick/prime_number_finder)
-
-[Dubbed](https://github.com/melvinquick/dubbed)
+| Name                                                                        | Short Description                           |
+| --------------------------------------------------------------------------- | ------------------------------------------- |
+| [PKHeX AppImage Build](https://github.com/melvinquick/pkhex_appimage_build) | Unofficial AppImage builder for PKHeX       |
+| [Psswd Box](https://github.com/melvinquick/psswd_box)                       | Local only password generator               |
+| [Wttrman](https://github.com/melvinquick/wttrman)                           | GUI front-end to [wttr.in](https://wttr.in) |
+| [Scramble Generator](https://github.com/melvinquick/scramble_generator)     | Twisty puzzle scramble generator            |
+| [Prime Number Finder](https://github.com/melvinquick/prime_number_finder)   | Check/Find prime numbers numerically        |
+| [Dubbed](https://github.com/melvinquick/dubbed)                             | Local only username generator               |
 
 </div>
