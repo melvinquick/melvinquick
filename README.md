@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="#x">
-    <img alt="" src="https://readme-typing-svg.herokuapp.com?lines=Python+Freak+🐍;Football+Lover+🏈;Harry+Potter+Enthusiast+🪄;Hockey+Fanatic+🏒;&center=true&width=500&height=34">
+    <img alt="" src="https://readme-typing-svg.herokuapp.com?lines=Python+Freak+🐍;Happily+Married+💍;Football+Lover+🏈;Harry+Potter+Enthusiast+🪄;Hockey+Fanatic+🏒;&center=true&width=500&height=34">
   </a>
 </p>
 
 <div align="center">
- <h3> :globe_with_meridians: Let's Connect :globe_with_meridians: </h3>
+ <h3> 🌐 Let's Connect 🌐 </h3>
 
 [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:melvinquick@proton.me)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/melvinquick.com)
@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
- <h3> :computer: Tech Stack :computer: </h3>
+ <h3> 💻 Tech Stack 💻 </h3>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org)
@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
- <h3> :sparkles: Current Projects :sparkles: </h3>
+ <h3> ✨ Current Projects ✨ </h3>
 
 | Name                                                                        | Short Description                           | Stars                                                                                                                                               |
 | --------------------------------------------------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
