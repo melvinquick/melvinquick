@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
- <h3> :keyboard: Preferred Languages :keyboard: </h3>
+ <h3> :computer: Tech Stack :computer: </h3>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org)
