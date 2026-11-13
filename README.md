@@ -33,5 +33,6 @@
 | [Phaino](https://github.com/melvinquick/phaino)                             | Focused IDE for the minimalist developer | ![Stars](https://img.shields.io/github/stars/melvinquick/phaino?style=for-the-badge&logo=star&logoColor=white&color=555555&label=%20)               |
 | [Psswd Box](https://github.com/melvinquick/psswd_box)                       | Local only password generator            | ![Stars](https://img.shields.io/github/stars/melvinquick/psswd_box?style=for-the-badge&logo=star&logoColor=white&color=555555&label=%20)            |
 | [PKHeX AppImage Build](https://github.com/melvinquick/pkhex_appimage_build) | Unofficial AppImage builder for PKHeX    | ![Stars](https://img.shields.io/github/stars/melvinquick/pkhex_appimage_build?style=for-the-badge&logo=star&logoColor=white&color=555555&label=%20) |
+| [Wttrman](https://github.com/melvinquick/wttrman)                           | GUI front-end to https://wttr.in/        | ![Stars](https://img.shields.io/github/stars/melvinquick/wttrman?style=for-the-badge&logo=star&logoColor=white&color=555555&label=%20)              |
 
 </div>
