@@ -34,5 +34,6 @@
 | [Psswd Box](https://github.com/melvinquick/psswd_box)                       | Local only password generator                | ![Stars](https://img.shields.io/github/stars/melvinquick/psswd_box?style=for-the-badge&logo=star&logoColor=white&color=555555&label=%20)            |
 | [PKHeX AppImage Build](https://github.com/melvinquick/pkhex_appimage_build) | Unofficial AppImage builder for PKHeX        | ![Stars](https://img.shields.io/github/stars/melvinquick/pkhex_appimage_build?style=for-the-badge&logo=star&logoColor=white&color=555555&label=%20) |
 | [Wttrman](https://github.com/melvinquick/wttrman)                           | GUI front-end to [wttr.in](https://wttr.in/) | ![Stars](https://img.shields.io/github/stars/melvinquick/wttrman?style=for-the-badge&logo=star&logoColor=white&color=555555&label=%20)              |
+| [Scramble Generator](https://github.com/melvinquick/scramble_generator)     | Twisty puzzle scramble generator             | ![Stars](https://img.shields.io/github/stars/melvinquick/scramble_generator?style=for-the-badge&logo=star&logoColor=white&color=555555&label=%20)   |
 
 </div>
